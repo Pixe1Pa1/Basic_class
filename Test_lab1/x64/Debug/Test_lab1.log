@@ -1,0 +1,7 @@
+﻿  test.cpp
+C:\univer\OOP\lab1\Test_lab1\test.cpp(264,5): warning C4244: 'argument': conversion from 'int' to 'RawType', possible loss of data
+C:\univer\OOP\lab1\Test_lab1\test.cpp(264,5): warning C4244:         with
+C:\univer\OOP\lab1\Test_lab1\test.cpp(264,5): warning C4244:         [
+C:\univer\OOP\lab1\Test_lab1\test.cpp(264,5): warning C4244:             RawType=float
+C:\univer\OOP\lab1\Test_lab1\test.cpp(264,5): warning C4244:         ]
+  Test_lab1.vcxproj -> C:\univer\OOP\lab1\lab1\x64\Debug\Test_lab1.exe
